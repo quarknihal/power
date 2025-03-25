@@ -14,4 +14,4 @@
 - [x] Gaming
 - [x] Hobbies 
 
-![Vibephoto]("https://picsum.photos/400/600")
+![Chai Pilo frandzzz]("https://budleaf.com/wp-content/uploads/2023/08/Adrak-masala-chai-scaled.jpeg")
