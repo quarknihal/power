@@ -1,5 +1,5 @@
-#Boom💥
-##Fire this Hackathon
+# Boom💥
+## Fire this Hackathon
 
 | Skills | Level | Wanna Continue or not |
 | ------- | ------ | ----- |
@@ -8,7 +8,7 @@
 | Flute | Better | It's my LOVE |
 | Sex | Zero | If I got the chance |
 
-#What have I done in life
+# What have I done in life
 - [x] Make Good Friends
 - [ ] Earn Money
 - [x] Gaming
