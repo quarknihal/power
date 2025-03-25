@@ -20,7 +20,7 @@ $E = mc^2$
 $a+b = b+a$
 $a-b \neq b-a$ 
 $a \times b = b \times a$
-<\div>
+</div>
 
 
 <img src="https://budleaf.com/wp-content/uploads/2023/08/Adrak-masala-chai-scaled.jpeg" width="300" height="200">
