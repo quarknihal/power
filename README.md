@@ -12,7 +12,10 @@
 - [x] Make Good Friends
 - [ ] Earn Money
 - [x] Gaming
-- [x] Hobbies 
+- [x] Hobbies
+
+## Lets Write some mathematical equations:
+$E = mc^2$
 
 <img src="https://budleaf.com/wp-content/uploads/2023/08/Adrak-masala-chai-scaled.jpeg" width="300" height="200">
 
