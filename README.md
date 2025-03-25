@@ -15,10 +15,10 @@
 - [x] Hobbies
 
 ## Lets Write some mathematical equations:
-$$
-E = mc^2 \\
-a+b=b+a
-$$
+$E = mc^2$
+$a+b=b+a$
+$a-b\neqb-a$
+$a\timesb=b\timesa$
 
 
 <img src="https://budleaf.com/wp-content/uploads/2023/08/Adrak-masala-chai-scaled.jpeg" width="300" height="200">
