@@ -15,7 +15,7 @@
 - [x] Hobbies
 
 ## Lets Write some mathematical equations:
-$E = mc^2
+$E = mc^2 \\
 a+b=b+a
 $
 
