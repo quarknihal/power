@@ -16,10 +16,10 @@
 
 ## Lets Write some mathematical equations:
 <div align="left">
-$E = mc^2$
-$a+b = b+a$
-$a-b \neq b-a$ 
-$a \times b = b \times a$
+$$E = mc^2$$
+$$a+b = b+a$$
+<!-- $a-b \neq b-a$ 
+$a \times b = b \times a$ -->
 </div>
 
 
