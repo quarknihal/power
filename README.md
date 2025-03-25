@@ -14,4 +14,5 @@
 - [x] Gaming
 - [x] Hobbies 
 
-![Chai Pilo frandzzz](https://budleaf.com/wp-content/uploads/2023/08/Adrak-masala-chai-scaled.jpeg/400/600)
+<img src="https://budleaf.com/wp-content/uploads/2023/08/Adrak-masala-chai-scaled.jpeg" width="300" height="200">
+
