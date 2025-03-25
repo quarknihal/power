@@ -25,6 +25,13 @@ a \times b = b \times a \\
 \end{aligned}
 \end{equation*}
 $$
+$$
+\begin{flalign*}
+& E = mc^2 \\
+& F = ma \\
+& \sum_{i=1}^{n} i = \frac{n(n+1)}{2}
+\end{flalign*}
+$$
 
 
 <img src="https://budleaf.com/wp-content/uploads/2023/08/Adrak-masala-chai-scaled.jpeg" width="300" height="200">
