@@ -15,10 +15,16 @@
 - [x] Hobbies
 
 ## Lets Write some mathematical equations:
-$E = mc^2$
-$a+b=b+a$
-$a-b \neq b-a$
-$a \times b = b \times a$
+$$
+\begin{equation*}
+\begin{aligned}
+E = mc^2 \\
+a+b=b+a \\
+a-b \neq b-a \\
+$a \times b = b \times a \\
+\end{aligned}
+\end{equation*}
+$$
 
 
 <img src="https://budleaf.com/wp-content/uploads/2023/08/Adrak-masala-chai-scaled.jpeg" width="300" height="200">
