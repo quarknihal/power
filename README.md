@@ -21,7 +21,7 @@
 ## Lets Write some mathematical equations:
 
 $$
-Einsteins theory of Relativity: \begin{align*}
+Einsteins theory of Relativity: $\begin{align*}$
 E = mc^2 \\
 a+b = b+a \\
 a-b \neq b-a \\
