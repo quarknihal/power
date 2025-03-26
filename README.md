@@ -17,16 +17,14 @@
 ## Lets Write some mathematical equations:
 
 $$
-\begin{equation*}
 \begin{aligned}
-E = mc^2 \\
-a+b = b+a \\
-a-b \neq b-a \\
-a \times b = b \times a \\
-\frac{a}{b} \neq \frac{b}{a} ,if a \neq b \\
-\sigma_{xy} = \frac{ \sigma_{xy} }{ \sigma_x \sigma_y}
+E &= mc^2 \\
+a+b &= b+a \\
+a-b &\neq b-a \\
+a \times b &= b \times a \\
+\frac{a}{b} &\neq \frac{b}{a} , \quad \text {if} a \neq b \\
+r &= \frac{ \sigma_{xy} }{ \sigma_x \sigma_y}
 \end{aligned}
-\end{equation*}
 $$
 
 
