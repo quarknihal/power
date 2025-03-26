@@ -21,14 +21,14 @@
 ## Lets Write some mathematical equations:
 
 $$
-\begin{falign*}
+\begin{flalign*}
 E = mc^2 \\
 a+b = b+a \\
 a-b \neq b-a \\
 a \times b = b \times a \\
 \frac{a}{b} \neq \frac{b}{a} , {if} {a \neq b} \\
 r = \frac{ \sigma_{xy} }{ \sigma_x \sigma_y}
-\end{falign*}
+\end{flalign*}
 $$
 
 
