@@ -17,6 +17,7 @@
 ## Lets Write some mathematical equations:
 
 $$
+\begin{equation*}
 \begin{aligned}
 E = mc^2 \\
 a+b = b+a \\
@@ -25,6 +26,7 @@ a \times b = b \times a \\
 \frac{a}{b} \neq \frac{b}{a} ,if a \neq b \\
 \sigma_{xy} = \frac{ \sigma_{xy} }{ \sigma_x \sigma_y}
 \end{aligned}
+\end{equation*}
 $$
 
 
