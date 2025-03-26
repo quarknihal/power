@@ -20,6 +20,7 @@
 
 ## Lets Write some mathematical equations:
 
+<div style="text-align: left;">
 $$
 \begin{align*}
 E = mc^2 \\
@@ -30,6 +31,7 @@ a \times b = b \times a \\
 r = \frac{ \sigma_{xy} }{ \sigma_x \sigma_y}
 \end{align*}
 $$
+</div>
 
 
 
