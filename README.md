@@ -23,7 +23,7 @@ E = mc^2 \\
 a+b = b+a \\
 a-b \neq b-a \\
 a \times b = b \times a \\
-\frac{a}{b} \neq \frac{b}{a} if a \neq b \\
+\frac{a}{b} \neq \frac{b}{a} ,if a \neq b \\
 \end{aligned}
 \end{equation*}
 $$
