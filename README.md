@@ -23,7 +23,7 @@ a+b = b+a \\
 a-b \neq b-a \\
 a \times b = b \times a \\
 \frac{a}{b} \neq \frac{b}{a} ,if a \neq b \\
-\sigma_xy = \frac{ \sigma_xy }{ \sigma_x \sigma_y}
+\sigma_{xy} = \frac{ \sigma_{xy} }{ \sigma_x \sigma_y}
 \end{aligned}
 $$
 
