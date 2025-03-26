@@ -1,3 +1,7 @@
+<script type="text/javascript" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
 # Boom💥
 ## Fire this Hackathon
 
@@ -22,7 +26,7 @@ E = mc^2 \\
 a+b = b+a \\
 a-b \neq b-a \\
 a \times b = b \times a \\
-\frac{a}{b} \neq \frac{b}{a} , \quad \text {if} a \neq b \\
+\frac{a}{b} \neq \frac{b}{a} , {if} {a \neq b} \\
 r = \frac{ \sigma_{xy} }{ \sigma_x \sigma_y}
 \end{aligned}
 $$
