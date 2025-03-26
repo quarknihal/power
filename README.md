@@ -20,7 +20,6 @@
 
 ## Lets Write some mathematical equations:
 
-<div style="text-align: left;">
 $$
 \begin{align*}
 E = mc^2 \\
@@ -28,12 +27,10 @@ a+b = b+a \\
 a-b \neq b-a \\
 a \times b = b \times a \\
 \frac{a}{b} \neq \frac{b}{a} , {if} {a \neq b} \\
-r = \frac{ \sigma_{xy} }{ \sigma_x \sigma_y}
+r = \frac{ \sigma_{xy} }{ \sigma_x \sigma_y} \\
+
 \end{align*}
 $$
-</div>
-
-
 
 <img src="https://budleaf.com/wp-content/uploads/2023/08/Adrak-masala-chai-scaled.jpeg" width="300" height="200">
 
