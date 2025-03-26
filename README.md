@@ -19,7 +19,7 @@
 $$
 \begin{equation*}
 \begin{aligned}
-E = mc^2 \\
+E = mc^2 
 a+b = b+a \\
 a-b \neq b-a \\
 a \times b = b \times a \\
